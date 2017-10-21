@@ -184,8 +184,8 @@
 		-webkit-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
-	/* Set your background with this */
-
+		/* Set your background with this */
+		
 		background: rgba(221,153,51,0.96) url("images/cuac_resiste.jpg") top left;
 		background-repeat: repeat-x;
 		height: 100%;
@@ -846,7 +846,7 @@
 		}
 
 		#bg {
-			background-size: 750px auto;
+			background-size: 1450px auto;
 			width: 2250px;
 		} }
 
@@ -932,7 +932,7 @@
 		}
 
 		#bg {
-			background-size: 300px auto;
+			background-size: 1400px auto;
 			width: 900px;
 		}
 
@@ -1030,7 +1030,7 @@
 		}
 
 		#bg {
-			background-size: 412.5px auto;
+			background-size: 1500px auto;
 			width: 1237.5px;
 		}
 
