@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: rgba(221,153,51,0.96) url("images/cuac_resiste.jpg") bottom left;
+		background: rgba(221,153,51,0.96) url("images/cuac_resiste.jpg") top left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
